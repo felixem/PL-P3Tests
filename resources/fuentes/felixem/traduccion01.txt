@@ -1,0 +1,29 @@
+/*Funcion main principal */
+main()
+{
+	int var1, var2;
+	double var3, var4;
+	
+	var1 = var2;
+	var1 = 3;
+	var1 = 3 + var2;
+	var1 = var2 * 3;
+	var1 = 1 + var2 * 33;
+	
+	var3 = var1;
+	var3 = var1 + var2;
+	var3 = 13;
+	var3 = var1 + 2;
+	var3 = var1 * 33 + var2;
+	
+	var3 = var4;
+	var3 = 33.3;
+	var3 = var4 + 14.1;
+	var3 = 11.1 + var4;
+	var3 = 11.1 * var4 + 11;
+	var3 = var1 * 1.1;
+	var3 = var1 + 1.37 * var2;
+	var3 = var1 + 8 * var2 + 11;
+	
+	var3 = var1 * 3 + var4 * 4 + 1;
+}

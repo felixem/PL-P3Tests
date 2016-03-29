@@ -1,0 +1,31 @@
+class TradC {
+
+
+public static void main(String[] args) {
+  Integer main_var1;
+  Integer main_var2;
+  Double main_var3;
+  Double main_var4;
+
+  main_var1 = main_var2;
+  main_var1 = new Integer(3);
+  main_var1 = new Integer(3+main_var2.intValue());
+  main_var1 = new Integer(main_var2.intValue()*3);
+  main_var1 = new Integer(1+main_var2.intValue()*33);
+  main_var3 = new Double(main_var1.toDouble());
+  main_var3 = new Double((new Integer(main_var1.intValue()+main_var2.intValue())).toDouble());
+  main_var3 = new Double((new Integer(13)).toDouble());
+  main_var3 = new Double((new Integer(main_var1.intValue()+2)).toDouble());
+  main_var3 = new Double((new Integer(main_var1.intValue()*33+main_var2.intValue())).toDouble());
+  main_var3 = main_var4;
+  main_var3 = new Double(33.3);
+  main_var3 = new Double(main_var4.doubleValue()+14.1);
+  main_var3 = new Double(11.1+main_var4.doubleValue());
+  main_var3 = new Double(11.1*main_var4.doubleValue()+(new Integer(11)).toDouble());
+  main_var3 = new Double(main_var1.toDouble()*1.1);
+  main_var3 = new Double(main_var1.toDouble()+1.37*main_var2.toDouble());
+  main_var3 = new Double((new Integer(main_var1.intValue()+8*main_var2.intValue()+11)).toDouble());
+  main_var3 = new Double((new Integer(main_var1.intValue()*3)).toDouble()+main_var4.doubleValue()*(new Integer(4)).toDouble()+(new Integer(1)).toDouble());
+}
+}
+

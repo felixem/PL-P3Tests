@@ -1,0 +1,35 @@
+class TradC {
+
+public static double fun() {
+  Integer fun_a;
+  Integer fun____b;
+  Integer fun_____c;
+  Double fun_____a;
+  Double fun_____c;
+  Double fun_____d;
+  Double fun_____e;
+  Integer[] fun_____vector = new Integer[10];
+  Integer[][] fun_____mat = new Integer[15][20];
+  Double[][][] fun_____tresD = new Double[5][10][15];
+  Double fun_____j;
+  Double[] fun_____l = new Double[12];
+  Double[][][][][][][][] fun_____k = new Double[2][4][8][16][32][64][128][256];
+
+  fun____b = new Integer(7);
+  fun_____c = new Integer(fun____b.intValue()-5*7/5);
+  fun_a = new Integer(fun_____c.intValue()+fun____b.intValue());
+  fun_____a = new Double(fun____b.toDouble()-5.5*(new Integer(7)).toDouble()/5.5);
+  fun____b = new Integer(56+fun____b.intValue());
+  fun_____a = new Double(fun_____a.doubleValue()+fun____b.toDouble());
+  fun_____a = new Double(fun_____a.doubleValue()*fun_____a.doubleValue());
+  fun_____a = new Double(fun_____a.doubleValue()+(new Integer(2*3/2)).toDouble());
+  fun_____a = new Double((new Integer(1)).toDouble()+(new Integer(2)).toDouble()+(new Integer(3)).toDouble()-fun_____a.doubleValue());
+  fun_____a = new Double(12.3*3.21);
+}
+
+public static void main(String[] args) {
+
+
+}
+}
+

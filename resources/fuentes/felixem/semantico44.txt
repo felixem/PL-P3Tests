@@ -1,0 +1,7 @@
+/*Funcion main principal */
+main()
+{
+	int var, var3;
+	double var1, var2;
+	var = var1 * var3 + var2;
+}

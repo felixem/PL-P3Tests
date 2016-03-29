@@ -1,0 +1,12 @@
+/*Funcion auxiliar*/
+int funcion1()
+{
+	int var;
+	var = 3*3*33+2;
+}
+
+/*Funcion main principal */
+main()
+{
+	funcion1 = 33.3;
+}

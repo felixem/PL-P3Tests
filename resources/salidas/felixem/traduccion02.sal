@@ -1,0 +1,50 @@
+class TradC {
+
+public static int funcion1() {
+  Integer funcion1_var1;
+  Integer[] funcion1_var2 = new Integer[3];
+  Integer[][] funcion1_var3 = new Integer[1][33];
+  Double funcion1_var4;
+  Double[] funcion1_var5 = new Double[33];
+  Double[][][] funcion1_var6 = new Double[11][44][59];
+  Integer funcion1__var1;
+  Integer funcion1___var1;
+
+  funcion1_var1 = new Integer(33);
+  funcion1__var1 = new Integer(33);
+  funcion1__var1 = new Integer(33);
+  funcion1___var1 = new Integer(33);
+}
+
+public static double funcion2() {
+  Integer funcion2_var1;
+  Integer funcion2_var2;
+  Integer funcion2__var1;
+  Double funcion2__var2;
+  Double funcion2___var1;
+
+  funcion2_var1 = new Integer(33);
+  funcion2__var1 = new Integer(33);
+  funcion2__var2 = new Double((new Integer(33)).toDouble());
+  funcion2__var2 = new Double(33.0);
+  funcion2__var1 = new Integer(33);
+  funcion2__var2 = new Double(funcion2__var1.toDouble());
+  funcion2___var1 = funcion2__var2;
+  funcion2___var1 = new Double(funcion2__var2.doubleValue()*(new Integer(11)).toDouble());
+}
+
+public static void main(String[] args) {
+  Integer main_var1;
+  Integer main_var2;
+  Double main__var1;
+  Double main__var2;
+  Double main__var1;
+
+  main_var1 = new Integer(44);
+  main__var1 = new Double((new Integer(44)).toDouble());
+  main_var1 = main_var2;
+  main__var2 = new Double(main_var1.toDouble());
+  main__var2 = main__var1;
+}
+}
+

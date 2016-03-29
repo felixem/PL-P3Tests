@@ -1,0 +1,5 @@
+/*Funcion main principal */
+main()
+{
+	int var1, var[1][0];
+}

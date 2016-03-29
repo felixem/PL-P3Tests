@@ -1,0 +1,66 @@
+/*Funcion 1*/
+int funcion1()
+{
+	int var1, var2[3], var3[1][33];
+	double var4, var5[33], var6[11][44][59];
+	
+	{
+		var1 = 33;
+		
+		int var1;
+		var1 = 33;
+		
+		{
+			var1 = 33;
+			
+			int var1;
+			var1 = 33;
+		}
+	}
+}
+
+/*Funcion 2*/
+double funcion2()
+{
+	int var1, var2;
+	
+	{
+		var1 = 33;
+		
+		int var1;
+		double var2;
+		
+		var1 = 33;
+		var2 = 33;
+		var2 = 33.0;
+		
+		{
+			var1 = 33;
+			var2 = var1;
+			
+			double var1;
+			var1 = var2;
+			var1 = var2*11;
+		}
+	}
+}
+
+/*Funcion main principal */
+main()
+{
+	int var1, var2;
+	
+	{
+		var1 = 44;
+		double var1;
+		var1 = 44;
+	}
+	
+	{
+		var1 = var2;
+		double var2;
+		var2 = var1;
+		double var1;
+		var2 = var1;
+	}
+}

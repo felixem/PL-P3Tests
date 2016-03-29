@@ -1,0 +1,15 @@
+/*Funcion auxiliar*/
+double funcion1()
+{
+	int var1;
+	{
+		double var1;
+		double var2;
+		int var2;
+	}
+}
+
+/*Funcion main principal */
+main()
+{
+}

@@ -1,0 +1,8 @@
+main()
+{
+	int var;
+	var = 3;
+	{
+		int;
+	}
+}

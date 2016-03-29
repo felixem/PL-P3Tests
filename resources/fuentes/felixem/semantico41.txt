@@ -1,0 +1,7 @@
+/*Funcion main principal */
+main()
+{
+	int var;
+	double var1;
+	var = 13.1 + var1;
+}
