@@ -1,0 +1,7 @@
+/*Funcion main principal */
+main()
+{
+	double d;
+	int e;
+	d = 2 + e;
+}

@@ -1,0 +1,11 @@
+class TradC {
+
+
+public static void main(String[] args) {
+  Double main_d;
+  Integer main_e;
+
+  main_d = new Double((new Integer(2+main_e.intValue())).toDouble());
+}
+}
+

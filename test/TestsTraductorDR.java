@@ -296,6 +296,8 @@ public class TestsTraductorDR extends TestCase {
 						0 }, 
 				{ "resources/fuentes/felixem/traduccion02.txt", "resources/salidas/felixem/traduccion02.sal", "",
 						0 }, 
+				{ "resources/fuentes/felixem/traduccion03.txt", "resources/salidas/felixem/traduccion03.sal", "",
+							0 }, 
 				});
 	}
 
