@@ -1,0 +1,30 @@
+class TradC {
+
+public static double funsion() {
+  Integer funsion_mierda;
+  Integer funsion__mierda;
+  Integer funsion__mierda;
+  Integer funsion__mierda2;
+  Integer funsion__b;
+
+  funsion__mierda = new Integer(2);
+  funsion_mierda = new Integer(3);
+  funsion__b = new Integer(funsion__mierda.intValue()+7);
+}
+
+public static void main(String[] args) {
+  Integer main_e;
+  Integer main_f;
+  Integer main_g;
+  Double main_a;
+  Double main_b;
+  Double main_c;
+  Integer main_h;
+  Integer main_aa;
+  Double[][][][] main_k = new Double[1][6][5][6];
+  Double[][] main_kk = new Double[2][2];
+
+  main_a = new Double(2.0);
+}
+}
+
