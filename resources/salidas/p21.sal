@@ -1,0 +1,27 @@
+class TradC {
+
+public static int f() {
+  Integer f_a;
+  Integer f_b;
+  Integer f_c;
+  Integer f_d;
+  Double f_r;
+  Double f_s;
+  Double f_t;
+  Double f__a;
+  Double f__b;
+  Double f__c;
+  Double f__d;
+  Integer[] f__a = new Integer[10];
+  Integer[] f__b = new Integer[5];
+
+  f__a = new Double((new Integer(2+3-5)).toDouble()-6.5);
+  f_t = new Double((new Integer(f_c.intValue()+f_d.intValue())).toDouble());
+}
+
+public static void main(String[] args) {
+
+
+}
+}
+

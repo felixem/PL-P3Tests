@@ -113,6 +113,9 @@ public class TestsTraductorDR extends TestCase {
 				{ "resources/fuentes/p19.txt", "", "Error sintactico (4,17): encontrado ';', esperaba identificador ",
 						-1 },
 				{ "resources/fuentes/p20.txt", "", "Error sintactico (7,3): encontrado 'a', esperaba ; , [ ", -1 },
+				{ "resources/fuentes/p21.txt", "resources/salidas/p21.sal", "", 0 },
+				{ "resources/fuentes/p22.txt", "resources/salidas/p22.sal", "", 0 },
+				{ "resources/fuentes/p23.txt", "", "Error semantico (7,21): '0' debe ser mayor que cero", -1 },
 				// Pruebas propias
 				{ "resources/fuentes/felixem/comentarios01.txt", "resources/salidas/felixem/comentarios01.sal", "", 0 },
 				{ "resources/fuentes/felixem/comentarios02.txt", "resources/salidas/felixem/comentarios02.sal", "", 0 },

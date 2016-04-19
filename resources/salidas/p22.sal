@@ -1,0 +1,22 @@
+class TradC {
+
+public static int g() {
+  Double[][][] g_m = new Double[10][5][1];
+  Integer g__a;
+
+  g__a = new Integer(2+3+4*5/6-7+8/9);
+}
+
+public static void main(String[] args) {
+  Integer[] main_a = new Integer[10];
+  Integer main_b;
+  Double[] main__a = new Double[9];
+  Integer[] main___a = new Integer[8];
+  Double[][] main____a = new Double[7][6];
+  Integer[][][] main_____a = new Integer[5][4][3];
+  Double[][] main______a = new Double[2][1];
+
+  main_b = new Integer(7654+321);
+}
+}
+

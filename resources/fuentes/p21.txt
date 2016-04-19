@@ -1,0 +1,20 @@
+
+int f()
+{
+  int a,b,c,d;
+  double r,s,t;
+
+  {
+    double a,b,c,d;
+
+    a=2+3-5-6.5;
+  }
+  {
+    int a[10],b[5];
+
+    t=c+d;
+  }
+}
+main()
+{
+}

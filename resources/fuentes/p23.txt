@@ -1,0 +1,14 @@
+
+int f()
+{
+  int a[10][6];
+
+  {
+     int a[3][2][1][0][-1][-2];  /* Error semantico (7,21): '0' debe ser mayor que cero */
+   
+
+}
+
+main()
+{
+}
